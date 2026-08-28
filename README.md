@@ -1,26 +1,31 @@
-<p align="center"><a href="instagram.com/auldeyy61" target="_blank"><img src="http://nggonepixel.com/assets/images/space-discovery.png" width="500"></a></p>
-
 ## About Me 👋
-Hi! 👋️👋 I'm Ma'sum ppl call me Ma'sum but u guys can call me PIXEL hehe.., now i'm a software engineer with a background in programming. I've enjoyed experiences in web  especially as back end developer 💕
 
+Hi, I'm **Ma'sum** — a software engineer specializing in **Backend Development**, with experience across **Full Stack Development** and **DevOps**.
 
-💻️ Programming Language
-- PHP (really love it!) 💕
-- Dart (on going)
+My primary focus is building **scalable, maintainable, and reliable backend systems**. I enjoy designing application architecture, developing APIs, working with databases, and solving complex technical problems.
 
-🔥️ Framework :
-- Laravel
-- Code Igniter
-- Flutter (on going 🌱🌱)
+Beyond backend development, I also work with frontend technologies and infrastructure, including **containerized deployments, CI/CD pipelines, security scanning, and application monitoring**. This allows me to understand and contribute across the entire software development lifecycle.
 
-🔥️ Private Projects 
-- https://www.nggonepixel.com/
-- https://www.pos.nggonepixel.com/
+I'm passionate about continuously improving my understanding of **software engineering fundamentals, system architecture, backend technologies, and modern development practices**.
 
+---
 
-👨‍Get in touch
+<h3 align="center">🛠 Tech I Enjoy Working With</h3>
 
-- LinkedIn : https://id.linkedin.com/in/muhmasum50
-- Instagram : https://instagram.com/auldeyy61
-- Email : muhmasum6661@gmail.com
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,go,js,ts,laravel,expressjs,react,nextjs,vue,nuxtjs,bootstrap,tailwindcss,postgres,mysql,mongodb,docker,cloudflare,grafana,prometheus,bun,nodejs,vite,jenkins,linux" />
+  </a>
+</p>
 
+---
+
+### What I Do
+
+- 🧠 **Backend Engineering** — APIs, business logic, databases, and system architecture
+- 💻 **Full Stack Development** — Building applications from backend to frontend
+- ⚙️ **DevOps** — Docker, CI/CD, deployment automation, and infrastructure
+- 🔐 **Security & Code Quality** — Security scanning, code analysis, and secure development practices
+- 📈 **Monitoring & Reliability** — Observability and maintaining reliable applications
+
+> **Backend-focused engineer with a full-stack mindset and DevOps experience.**
